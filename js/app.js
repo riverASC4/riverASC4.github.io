@@ -14,5 +14,5 @@ function changeSubtitle() {
             $("#subtitle").html(subtitles[subtitles.length - 1]);
             count = 0;
         }
-    }, 1000);
+    }, 1500);
 }
