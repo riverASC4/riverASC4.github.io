@@ -1,0 +1,36 @@
+body {
+    background-color:slategray;
+}
+
+#switchimg {
+  transition:all;
+  margin:280px;
+  margin-right:80px;
+  margin-left:120px;
+  margin-top:80px;
+  color:white;
+}
+
+#projects {
+    margin-left:580px;
+    color:white;
+    font-size:50px;
+}
+
+#HMT {
+    color:#ff0000;
+    margin-left:515px;
+    margin-bottom:-50px;
+    font-size:40px;
+}
+
+#Plants {
+  color:chartreuse;
+  font-size:35px;
+  margin-top:-80px;
+  margin-left:363px;
+}
+
+#back {
+    color:white;
+}
